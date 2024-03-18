@@ -20,7 +20,7 @@ The Disease Prediction System is built on machine learning algorithms trained to
 - Parkinson's Disease Prediction
 - Breast Cancer Prediction
 
-##Usage
+## Usage
 Diabetes Prediction: Input relevant medical data such as glucose level, blood pressure, and BMI. Click the "Diabetes Test Result" button for the prediction.
 
 Heart Disease Prediction: Enter information like age, sex, and cholesterol level. Click the "Heart Disease Test Result" button for the prediction.
@@ -31,9 +31,9 @@ Breast Cancer Prediction: Input details regarding tumor characteristics. Click t
 
 Ensure all input values are valid numeric data for accurate predictions.
 
-##Disclaimer
+## Disclaimer
 This web application is for educational and informational purposes only. The predictions generated are based on machine learning models and should not substitute professional medical advice. Always consult a qualified healthcare provider for medical diagnosis and treatment.
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
 
